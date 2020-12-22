@@ -34,7 +34,7 @@
 		"CHF": {
 			"name": "Swiss franc",
 			"locations": [
-				" Switzerland",
+				"Switzerland",
 				"Liechtenstein (LI)"
 			]
 		},
@@ -47,7 +47,7 @@
 		"CZK": {
 			"name": "Czech koruna",
 			"locations": [
-				"Czechia "
+				"Czechia"
 			]
 		},
 		"DKK": {
@@ -95,7 +95,7 @@
 				"Slovakia (SK)",
 				"Slovenia (SI)",
 				"Spain (ES)",
-				" Vatican City (VA)"
+				"Vatican City (VA)"
 			]
 		},
 		"GBP": {
