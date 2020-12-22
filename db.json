@@ -139,13 +139,6 @@
 			"alpha3": "HUF"
 		},
 		{
-			"name": "Indonesian rupiah",
-			"locations": [
-				"Indonesia"
-			],
-			"alpha3": "IDR"
-		},
-		{
 			"name": "Israeli new shekel",
 			"locations": [
 				"Israel"
@@ -216,13 +209,6 @@
 			"alpha3": "NZD"
 		},
 		{
-			"name": "Philippine peso",
-			"locations": [
-				"Philippines"
-			],
-			"alpha3": "PHP"
-		},
-		{
 			"name": "Polish złoty",
 			"locations": [
 				"Poland"
@@ -249,13 +235,6 @@
 				"Sweden"
 			],
 			"alpha3": "SEK"
-		},
-		{
-			"name": "Singapore dollar",
-			"locations": [
-				"Singapore"
-			],
-			"alpha3": "SGD"
 		},
 		{
 			"name": "Thai baht",
