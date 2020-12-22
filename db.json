@@ -1,6 +1,6 @@
 {
-	"currencies": {
-		"AUD": {
+	"currencies": [
+		{
 			"name": "Australian dollar",
 			"locations": [
 				"Australia",
@@ -11,54 +11,62 @@
 				"Nauru (NR)",
 				"Norfolk Island (NF)",
 				"Tuvalu (TV)"
-			]
+			],
+			"alpha3": "AUD"
 		},
-		"BGN": {
+		{
 			"name": "Bulgarian lev",
 			"locations": [
 				"Bulgaria"
-			]
+			],
+			"alpha3": "BGN"
 		},
-		"BRL": {
+		{
 			"name": "Brazilian real",
 			"locations": [
 				"Brazil"
-			]
+			],
+			"alpha3": "BRL"
 		},
-		"CAD": {
+		{
 			"name": "Canadian dollar",
 			"locations": [
 				"Canada"
-			]
+			],
+			"alpha3": "CAD"
 		},
-		"CHF": {
+		{
 			"name": "Swiss franc",
 			"locations": [
-				"Switzerland",
+				" Switzerland",
 				"Liechtenstein (LI)"
-			]
+			],
+			"alpha3": "CHF"
 		},
-		"CNY": {
+		{
 			"name": "Chinese yuan",
 			"locations": [
 				"China"
-			]
+			],
+			"alpha3": "CNY"
 		},
-		"CZK": {
+		{
 			"name": "Czech koruna",
 			"locations": [
-				"Czechia"
-			]
+				"Czechia "
+			],
+			"alpha3": "CZK"
 		},
-		"DKK": {
+		{
 			"name": "Danish krone",
 			"locations": [
 				"Denmark",
 				"Faroe Islands (FO)",
 				"Greenland (GL)"
-			]
+			],
+			"alpha3": "DKK"
 		},
-		"EUR": {
+		{
 			"name": "Euro",
 			"locations": [
 				"Åland Islands (AX)",
@@ -95,94 +103,108 @@
 				"Slovakia (SK)",
 				"Slovenia (SI)",
 				"Spain (ES)",
-				"Vatican City (VA)"
-			]
+				" Vatican City (VA)"
+			],
+			"alpha3": "EUR"
 		},
-		"GBP": {
+		{
 			"name": "Pound sterling",
 			"locations": [
 				"United Kingdom",
 				"Isle of Man (IM, see Manx pound)",
 				"Jersey (JE, see Jersey pound)",
 				"Guernsey (GG, see Guernsey pound)"
-			]
+			],
+			"alpha3": "GBP"
 		},
-		"HKD": {
+		{
 			"name": "Hong Kong dollar",
 			"locations": [
 				"Hong Kong"
-			]
+			],
+			"alpha3": "HKD"
 		},
-		"HRK": {
+		{
 			"name": "Croatian kuna",
 			"locations": [
 				"Croatia"
-			]
+			],
+			"alpha3": "HRK"
 		},
-		"HUF": {
+		{
 			"name": "Hungarian forint",
 			"locations": [
 				"Hungary"
-			]
+			],
+			"alpha3": "HUF"
 		},
-		"IDR": {
+		{
 			"name": "Indonesian rupiah",
 			"locations": [
 				"Indonesia"
-			]
+			],
+			"alpha3": "IDR"
 		},
-		"ILS": {
+		{
 			"name": "Israeli new shekel",
 			"locations": [
 				"Israel"
-			]
+			],
+			"alpha3": "ILS"
 		},
-		"INR": {
+		{
 			"name": "Indian rupee",
 			"locations": [
 				"India",
 				"Bhutan"
-			]
+			],
+			"alpha3": "INR"
 		},
-		"ISK": {
+		{
 			"name": "Icelandic króna",
 			"locations": [
 				"Iceland"
-			]
+			],
+			"alpha3": "ISK"
 		},
-		"JPY": {
+		{
 			"name": "Japanese yen",
 			"locations": [
 				"Japan"
-			]
+			],
+			"alpha3": "JPY"
 		},
-		"KRW": {
+		{
 			"name": "South Korean won",
 			"locations": [
 				"South Korea"
-			]
+			],
+			"alpha3": "KRW"
 		},
-		"MXN": {
+		{
 			"name": "Mexican peso",
 			"locations": [
 				"Mexico"
-			]
+			],
+			"alpha3": "MXN"
 		},
-		"MYR": {
+		{
 			"name": "Malaysian ringgit",
 			"locations": [
 				"Malaysia"
-			]
+			],
+			"alpha3": "MYR"
 		},
-		"NOK": {
+		{
 			"name": "Norwegian krone",
 			"locations": [
 				"Norway",
 				"Svalbard and  Jan Mayen (SJ)",
 				"Bouvet Island (BV)"
-			]
+			],
+			"alpha3": "NOK"
 		},
-		"NZD": {
+		{
 			"name": "New Zealand dollar",
 			"locations": [
 				"New Zealand",
@@ -190,57 +212,66 @@
 				"Niue (NU)",
 				"Pitcairn Islands (PN; see also Pitcairn Islands dollar)",
 				"Tokelau (TK)"
-			]
+			],
+			"alpha3": "NZD"
 		},
-		"PHP": {
+		{
 			"name": "Philippine peso",
 			"locations": [
 				"Philippines"
-			]
+			],
+			"alpha3": "PHP"
 		},
-		"PLN": {
+		{
 			"name": "Polish złoty",
 			"locations": [
 				"Poland"
-			]
+			],
+			"alpha3": "PLN"
 		},
-		"RON": {
+		{
 			"name": "Romanian leu",
 			"locations": [
 				"Romania"
-			]
+			],
+			"alpha3": "RON"
 		},
-		"RUB": {
+		{
 			"name": "Russian ruble",
 			"locations": [
 				"Russia"
-			]
+			],
+			"alpha3": "RUB"
 		},
-		"SEK": {
+		{
 			"name": "Swedish krona/kronor",
 			"locations": [
 				"Sweden"
-			]
+			],
+			"alpha3": "SEK"
 		},
-		"SGD": {
+		{
 			"name": "Singapore dollar",
 			"locations": [
 				"Singapore"
-			]
+			],
+			"alpha3": "SGD"
 		},
-		"THB": {
+		{
 			"name": "Thai baht",
 			"locations": [
 				"Thailand"
-			]
+			],
+			"alpha3": "THB"
 		},
-		"TRY": {
+		{
 			"name": "Turkish lira",
 			"locations": [
 				"Turkey"
-			]
+			],
+			"alpha3": "TRY"
 		},
-		"USD": {
+		{
 			"name": "United States dollar",
 			"locations": [
 				"United States",
@@ -262,15 +293,17 @@
 				"Turks and Caicos Isla]nds (TC)",
 				"U.S. Virgin Islands (VI)",
 				"United States Minor Outlying Islands (UM)"
-			]
+			],
+			"alpha3": "USD"
 		},
-		"ZAR": {
+		{
 			"name": "South African rand",
 			"locations": [
 				"Lesotho",
 				"Namibia",
 				"South Africa"
-			]
+			],
+			"alpha3": "ZAR"
 		}
-	}
+	]
 }
